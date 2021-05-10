@@ -1,0 +1,236 @@
+ID,Species
+1,Pilayella littoralis
+2,Laminaria
+3,Agarum
+4,Costaria costata
+5,Saccharina sessile
+6,Nereocystis luetkeana
+7,Alaria
+8,Desmarestia
+9,Staphylinidae
+10,Fucus
+11,Cystoseira
+12,Colpomenia
+13,Bangia
+14,Porphyra
+15,Corallina
+16,Bossiella
+17,Palmaria
+18,Microcladia
+19,Polysiphonia
+20,Odonthalia
+21,Caloplaca
+22,Verrucaria
+23,Chrysophyta
+24,Phascolosomatidae
+25,Phoronida
+26,Gymnolaemata
+27,Terebratalia transversa
+28,Solaster dawsoni
+29,Solaster endeca
+30,Solaster stimpsoni
+31,Dermasterias imbricata
+32,Henricia
+33,Evasterias troschelii
+34,Leptasterias
+35,Orthasterias koehleri
+36,Pycnopodia helianthoides
+37,Ophiuroidea
+38,Strongylocentrotus droebachiensis
+39,Eupentacta
+40,Cucumaria
+41,Apodacea
+42,Styela
+43,Pyura
+44,Hypomesus pretiosus
+45,Gobiesocidae
+46,Gasterosteus aculeatus
+47,Artedius
+48,Clinocottus
+49,Hemilepidotus hemilepidotus
+50,Oligocottus maculosus
+51,Trichodon trichodon
+52,Anoplarchus purpurescens
+53,Xiphister atropurpureus
+54,Xiphister mucosus
+55,Pholis
+56,Ammodytes hexapterus
+57,Homo sapiens
+58,Enhydra lutris
+59,Vulpes
+60,Eumetopias jubatus
+61,Phoca vitulina
+62,Bacteria
+63,Prymnesiophyceae
+64,Bacillariophyta
+65,Zostera marina
+66,Sarcomastigophora
+67,Foraminiferida
+68,Radiolaria
+69,Ciliophora
+70,Haliclona
+71,Ophlitaspongia
+72,Halichondria panicea
+73,Hydrozoa
+74,Anthopleura
+75,Epiactis
+76,Urticina
+77,Metridium senile
+78,Enteroctopus dofleini
+79,Pharidae
+80,Lottia digitalis
+81,Lottia pelta
+82,Lottia persona
+83,Lottia scutum
+84,Lineidae
+85,Emplectonematidae
+86,Amphiporidae
+87,Cyanophycota
+88,Polynoidae
+89,Ulvaceae
+90,Balanus nubilus
+91,Nereididae
+92,Glyceridae
+93,Lumbrineridae
+94,Acrosiphoniaceae
+95,Flabelligeridae
+96,Cladophoraceae
+97,Terebellidae
+98,Sabellidae
+99,Codiaceae
+100,Acmaea mitra
+101,Trochidae
+102,Lacuna
+103,Littorina
+104,Cerithiopsis
+105,Trichotropis cancellata
+106,Velutina
+107,Naticidae
+108,Fusitriton
+109,Nucella canaliculata
+110,Nucella lamellosa
+111,Nucella lima
+112,Buccinum
+113,Siphonaria thersites
+114,Diaulula sandiegensis
+115,Rostanga pulchra
+116,Archidoris montereyensis
+117,Archidoris odhneri
+118,Triopha catalinae
+119,Hermissenda crassicornis
+120,Aeolidia papillosa
+121,Onchidella
+122,Leptochiton rugatus
+123,Tonicella
+124,Katharina tunicata
+125,Mopalia
+126,Cryptochiton stelleri
+127,Mytilus
+128,Modiolus
+129,Pododesmus
+130,Clinocardium
+131,Tresus
+132,Mactromeris
+133,Macoma
+134,Saxidomus
+135,Protothaca staminea
+136,Hiatellidae
+137,Entodesma
+138,Prostigmata
+139,Pycnogonida
+140,Ostracoda
+141,Harpacticidae
+142,Chthamalus dalli
+143,Balanus crenatus
+144,Balanus glandula
+145,Semibalanus balanoides
+146,Semibalanus cariosus
+147,Sphaeromatidae
+148,Limnoria
+149,Idoteidae
+150,Gammaridea
+151,Prasinophyta
+152,Caprellidae
+153,Euphausiidae
+154,Hippolytidae
+155,Crangonidae
+156,Paguridae
+157,Mimulus
+158,Pugettia
+159,Scyra
+160,Telmessus cheiragonus
+161,Cancer
+162,Dinophyceae
+163,Mastocarpus
+164,Mazzaella
+165,Neorhodomela
+166,Phaeophyta Crust
+167,Crustose coralline algae complex
+168,Detritus complex
+169,Biofilm Complex
+170,Red crust complex
+171,Chlorophyta Crust
+172,Gavia
+173,Podiceps
+174,Diomedeidae
+175,Fulmarus glacialis
+176,Puffinus tenuirostris
+177,Oceanodroma
+178,Phalacrocorax auritus
+179,Phalacrocorax pelagicus
+180,Cygnus columbianus
+181,Branta canadensis
+182,Branta bernicla
+183,Chen canagica
+184,Anas
+185,Aythya marila
+186,Bucephala
+187,Clangula hyemalis
+188,Histrionicus histrionicus
+189,Polysticta stelleri
+190,Somateria mollissima
+191,Somateria spectabilis
+192,Melanitta fusca
+193,Melanitta perspicillata
+194,Melanitta nigra
+195,Mergus
+196,Buteo lagopus
+197,Aquila chrysaetos
+198,Haliaeetus leucocephalus
+199,Falco rusticolus
+200,Falco peregrinus
+201,Grus canadensis
+202,Haematopus bachmani
+203,Charadrius semipalmatus
+204,Tringa melanoleuca
+205,Tringa incana
+206,Calidris
+207,Limosa lapponica
+208,Gallinago
+209,Phalaropus lobatus
+210,Stercorarius parasiticus
+211,Larus hyperboreus
+212,Larus glaucescens
+213,Larus argentatus
+214,Larus canus
+215,Rissa tridactyla
+216,Sterna
+217,Uria aalge
+218,Uria lomvia
+219,Cepphus columba
+220,Brachyramphus marmoratus
+221,Synthliboramphus antiquus
+222,Ptychoramphus aleuticus
+223,Aethia cristatella
+224,Fratercula corniculata
+225,Fratercula cirrhata
+226,Asio flammeus
+227,Lanius excubitor
+228,Melospiza melodia
+229,Calcarius lapponicus
+230,Plectrophenax
+231,Corvus corax
+232,Aethia psittacula
+233,Anthus rubescens
+234,Bubo scandiacus
+235,Cinclus mexicanus
